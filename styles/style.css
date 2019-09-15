@@ -2,6 +2,8 @@ body, html {
     background-color: #181A1B;
     color: white;
     height: 100%;
+    margin: 0;
+    padding: 0;
 }
 
 .container {
