@@ -1,4 +1,4 @@
-body {
+body, html {
     background-color: #181A1B;
     color: white;
     height: 100%;
@@ -6,9 +6,11 @@ body {
 
 .container {
     width: 100%;
+    height: 100%;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    align-items: center;
 }
 
 .introduction {
