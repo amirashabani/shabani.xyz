@@ -99,3 +99,13 @@ header li a {
         font-size: 15px;
     }
 }
+
+@media screen and (max-width: 600px) {
+    .introduction h1 {
+        font-size: 25px;
+    }
+
+    .introduction p {
+        font-size: 13px;
+    }
+}
