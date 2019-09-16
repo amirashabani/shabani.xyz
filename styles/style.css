@@ -51,6 +51,14 @@ header li a {
     margin: 0px 0px 0px 10px;
 }
 
+.introduction h1 {
+    font-size: 34px;
+}
+
+.introduction p {
+    font-size: 18px;
+}
+
 .introduction img {
     border-radius: 100%;
     pointer-events: none;
