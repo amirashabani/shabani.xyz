@@ -83,3 +83,9 @@ header li a {
     font-family: 'Oxygen';
     src: url('../fonts/oxygen/Oxygen-Regular.ttf');
 }
+
+@media screen and (max-width: 915px) {
+    .introduction {
+        display: block;
+    }
+}
