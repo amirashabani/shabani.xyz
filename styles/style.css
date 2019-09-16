@@ -2,9 +2,33 @@ body, html {
     background-color: #181A1B;
     color: white;
     height: 100%;
-    margin: 0;
-    padding: 0;
+    margin: 50px 0 0 0;
+    padding: 30px;
     font-family: 'Oxygen', sans-serif;
+}
+
+header {
+    display: flex;
+    background-color: #181A1B;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 50px;
+    align-items: center;
+}
+
+header * {
+    display: inline;
+}
+
+header li {
+    margin: 10px;
+}
+
+header li a {
+    text-decoration: none;
+    color: white;
 }
 
 .container {
