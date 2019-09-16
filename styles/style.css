@@ -23,16 +23,16 @@ body, html {
     align-items: center;
 }
 
-.clearfix {
-    clear: both;
+.introduction p, h1 {
+    margin: 0px 0px 0px 10px;
 }
 
-#profile-picture {
+.introduction img {
     border-radius: 100%;
 }
 
-#introduction-paragraph {
-    margin: 0px 0px 0px 10px;
+.clearfix {
+    clear: both;
 }
 
 @font-face {
