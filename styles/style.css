@@ -4,7 +4,7 @@ body, html {
     height: 100%;
     margin: 0;
     padding: 0;
-    font-family: 'livvic'
+    font-family: 'Oxygen', sans-serif;
 }
 
 .container {
@@ -36,6 +36,6 @@ body, html {
 }
 
 @font-face {
-    font-family: 'livvic';
-    src: url('../fonts/livvic/Livvic-Medium.ttf');
+    font-family: 'Oxygen';
+    src: url('../fonts/oxygen/Oxygen-Regular.ttf');
 }
