@@ -45,6 +45,10 @@ main {
     display: none;
 }
 
+.short-navbar a {
+    margin-left: 40px;
+}
+
 .container {
     display: flex;
     flex-wrap: wrap;
